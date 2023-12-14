@@ -1,0 +1,255 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    padding: 24px 165px;
+    background-color: #FFC9BA;
+    width: 1440px;
+}
+
+.searchInput {
+    margin-left: 299px;
+}
+
+.userIcon {
+    margin-left: 232px;
+}
+
+.basketIcon {
+    margin-left: 32px;
+}
+
+.hamburgerMenu {
+    margin-left: 32px;
+}
+
+.firstChapter {
+    display: flex;
+    background-color: #FFC9BA;
+    width: 1440px;
+}
+
+.descriptionYellowMainChair {
+    padding: 183px 165px;
+}
+
+.descriptionYellowMainChair h3 {
+    color: #212121;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px; /* 120% */
+    letter-spacing: -0.4px;
+}
+
+.descriptionYellowMainChair p {
+    color: #212121;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    padding: 16px 0;
+}
+
+.yellowMainChairPhoto {
+    margin-top: 224px;
+    margin-left: -80px;
+}
+
+.container {
+    font-family: Arial;
+}
+.logo p {
+    color: #807E7E;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    padding: 56px 165px 24px;
+}
+
+.logos {
+    display: flex;
+    padding: 0px 166.03px;
+    gap: 94.4px;
+    margin-bottom: 56.68px;
+    color: #C4C4C4;
+}
+
+.secondChapter {
+    display: flex;
+    padding: 64px 165px 80px;
+    gap: 24px;
+}
+
+.greenSofa {
+    background-color: #e6f0ff;
+    height: 734px;
+}
+
+.blackLamp {
+    background-color: #fafafb;
+}
+
+.secondChapter p {
+    margin-left: 40px;
+    margin-bottom: 40px;
+    color: #212121;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px; /* 150% */
+}
+
+.chairDescription {
+    background-color: #e6f0ff;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.lampDescription {
+    background-color: #fafafb;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.fourthChapter {
+    display: flex;
+    padding: 80px 165px;
+}
+
+.descriptionYellowChair {
+    padding: 128px 97px;
+    background-color: #fafafb;
+}
+
+.descriptionYellowChair h3 {
+    color: #212121;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 37px; /* 123.333% */
+    letter-spacing: -0.35px;
+}
+
+.descriptionYellowChair p {
+    color: #212121;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+}
+
+.explore {
+    color: #212121;
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 32px; /* 177.778% */
+    align-items: center;
+    display: flex;
+}
+
+.yRightArrow {
+    padding: 0 4px;
+}
+
+.yellowChairPhoto {
+    background-color: #ecf1f9;
+}
+
+.sixthChapter {
+    padding: 80px 165px;
+}
+
+.title {
+    display: flex;
+    border-bottom: 1px solid #eaeaea;
+    width: 1110px;
+    padding-bottom: 16px;
+}
+
+.title h3 {
+    color: #212121;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px; /* 150% */
+    margin-right: 887px;
+}
+
+.products {
+    display: flex;
+    gap: 24px;
+    padding-top: 24px;
+}
+
+.productName {
+    margin-top: 16px;
+    display: flex;
+    color: #807E7E;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 21px; /* 175% */
+}
+
+.productDescription {
+    display: flex;
+    color: #212121;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px; /* 175% */
+}
+
+.finalChapter {
+    display: flex;
+    border-bottom: 1px solid #eaeaea;
+    width: 1440px;
+}
+
+.logoAndDescription {
+    padding: 72px 165px;
+}
+
+.logoAndDescription p {
+    margin-top: 24px;
+    color: #52647C;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+}
+
+.finalChapter .columnTitle {
+    width: 149.33px;
+    color: #212121;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px; /* 171.429% */
+    gap: 24px;
+}
+
+.finalChapter p {
+    color: #807E7E;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    gap: 24px;
+}
+
+.socialMedia {
+    width: 1440px;
+    display: flex;
+    padding: 24px 165px;
+    margin-bottom: 24px;
+    gap: 40px;
+}
+
+.lastSocialMedia {
+    margin-right: auto;
+}
+
+.socialMedia p {
+    color: #807E7E;
+    text-align: right;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+}

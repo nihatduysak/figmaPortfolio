@@ -1,0 +1,124 @@
+.container {
+    width: 1440px;
+}
+
+.title p {
+    color: #212121;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 37px; /* 123.333% */
+    letter-spacing: -0.35px;
+    padding: 184px 155px 0;
+}
+
+.title h2 {
+    color: #212121;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 70px; /* 116.667% */
+    letter-spacing: -0.7px;
+    padding: 12px 155px 0;
+}
+
+.socialMediaIcon {
+    display: flex;
+    padding: 40px 155px 0;
+    gap: 32px;
+}
+
+.mainTitle {
+    color: #212121;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 37px; /* 123.333% */
+    letter-spacing: -0.35px;
+    padding: 200px 165px 0;
+}
+
+.kfc {
+    margin-top: 40px;
+    margin-left: 165px;
+    margin-right: 165px;
+    border: 1px solid #c4c4c4;
+    border-radius: 12px;
+}
+
+.kfcImg {
+    padding: 24px 24px 0;
+}
+
+.desTitle {
+    color:#212121;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 37px; /* 123.333% */
+    letter-spacing: -0.35px;
+    padding: 24px 24px;
+}
+
+.des {
+    color: #212121;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    padding: 12px 24px;
+}
+
+.view {
+    display: flex;
+    color:#212121;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px; /* 171.429% */
+    padding: 64px 24px 24px;
+}
+
+.text p {
+    color:#212121;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px; /* 150% */
+}
+
+.text h3 {
+    margin-top: 12px;
+    color: #212121;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px; /* 120% */
+    letter-spacing: -0.4px;
+}
+
+.text h3 span {
+    color:#0D6EFD;
+}
+
+.finalChapter {
+    padding: 200px 165px 0;
+    display: flex;
+}
+
+.information p {
+    padding: 0 96px;
+    color:#807E7E;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    border-bottom: 1px solid #c4c4c4;
+}
+
+.information button {
+    color:#212121;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 32px; /* 177.778% */
+    background-color: #fff;
+    padding: 8px 47px;
+    margin-left: 96px;
+    margin-top: 16px;
+}
+
+.lastRow {
+    padding: 283px 165px 32px;
+}
